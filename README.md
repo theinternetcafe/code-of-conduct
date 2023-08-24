@@ -4,7 +4,7 @@
 
 We as members, contributors, and leaders pledge to make 
 participation in our community a harassment-free experience
-for all adults (18 and older), regardless of age, body size, visible or 
+for all adults (18+), regardless of age, body size, visible or 
 invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, 
 socio-economic status, nationality, personal appearance, race,
